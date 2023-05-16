@@ -1,4 +1,4 @@
-# photo-editor-app
+# Photo Editor App (Flutter)
 
 https://www.linkedin.com/posts/mohammed-shamseer-pv_flutter-fluttercommunity-flutterdeveloper-activity-7047934250926428160-W0te?utm_source=share&utm_medium=member_desktop
 
