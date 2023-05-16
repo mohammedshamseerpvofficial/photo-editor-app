@@ -4,6 +4,6 @@
 
 
 
-- [Live Demo](https://mokz-player.netlify.app/#/)
+- [Download App](https://mohammedshamseerpvofficial.github.io/host-images/image/mokz-Editor.apk)
 
 
